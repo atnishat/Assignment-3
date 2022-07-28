@@ -79,7 +79,7 @@ body{
     }
 }
 
-
+ /* media queries  */
 
 @media screen and (max-width:768px) {
     .FAQ{
@@ -98,7 +98,7 @@ body{
         
     }
     
-    .company{
+    .all-company{
         display:none;
     }
     .registration-btn button{
@@ -107,6 +107,12 @@ body{
     }
 }
 
-
+.social-links{
+width: 100px;
+height: 100px;
+padding-left: 620px;
+    padding-top: 25px;
+    font-size: 30px;
+}
 
 
