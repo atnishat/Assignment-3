@@ -27,3 +27,15 @@ body{
 .popular-courses{
     margin: auto;
 }
+.explore-section{
+    margin-top: 150px;
+}
+.explore-img img{
+    width: 500px;
+    height: 700px;
+}
+.title h3{
+    font-size: 50px;
+    font-weight: 700;
+}
+
